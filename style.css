@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Lato&family=Libre+Baskerville:ital@1&family=Lora:ital,wght@1,500;1,700&family=Merriweather:ital,wght@1,300&family=Montez&family=Montserrat:wght@200&family=Open+Sans:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&family=PT+Serif:ital@1&family=Poppins:ital,wght@0,200;0,300;1,300;1,400&family=Roboto:ital,wght@0,400;1,300;1,400&family=Sacramento&family=Tiro+Kannada:ital@1&display=swap');
+
+
+:root{
+    --color:dark:hsl(252,30%,17%);
+}
+*,*::before,*::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: 0;
+    outline: 0;
+    text-decoration: 0;
+    list-style: 0;
+
+
+}
+
+body {
+    font-family:"poppins",sans-serif;
+    color:var(--color-dark);
+
+}
